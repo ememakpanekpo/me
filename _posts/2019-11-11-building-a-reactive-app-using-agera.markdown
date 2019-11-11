@@ -5,15 +5,15 @@ date: 2019-11-11 21:00
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- components
-- extra
+- android
+- agera
+- reactive streams
 category: blog
 author: johndoe
 description: Building a reactive android app with Agera
 ---
 
-First publish on[ 28th Sept, 2017 on Medium](https://medium.com/@emayoung95/building-a-reactive-android-app-using-agera-3128890b7d99)
+Originally published on[ 28th Sept, 2017 on Medium](https://medium.com/@emayoung95/building-a-reactive-android-app-using-agera-3128890b7d99)
 
 ![](https://miro.medium.com/max/900/1*d5wOgX64nE_Ssx8N_-Mzvw.png)
 
