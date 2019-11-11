@@ -30,6 +30,7 @@ layout: page
 	<li>Consuming Restful APIs</li>
 	<li>Git</li>
 	<li>GitFlow</li>
+	<li>Continous Integration</li>
 	<li>Swift</li>
 	<li>CocoaPods</li>
 	<li>Figma</li>
