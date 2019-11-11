@@ -1,5 +1,16 @@
 ---
 title: Building a Reactive Android App using Agera
+layout: post
+date: 2019-11-11 21:00
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- components
+- extra
+category: blog
+author: johndoe
+description: Building a reactive android app with Agera
 ---
 
 First publish on[ 28th Sept, 2017 on Medium](https://medium.com/@emayoung95/building-a-reactive-android-app-using-agera-3128890b7d99)
@@ -7,8 +18,7 @@ First publish on[ 28th Sept, 2017 on Medium](https://medium.com/@emayoung95/buil
 ![](https://miro.medium.com/max/900/1*d5wOgX64nE_Ssx8N_-Mzvw.png)
 
 
-*The hardest part of learning react programming is thinking in Reactive — Andrea Staltz
-*
+*The hardest part of learning react programming is thinking in Reactive — Andrea Staltz*
 
 # Thinking Reactive
 If you are a beginner this is how things are probably are for you now, if you have a button or any event source, you use listeners(Receivers) which monitors(Observes) for when the event happens, and execute (Update) whatever you intended. The terms in bracket are the alternatives Agera uses for handling event sources.
