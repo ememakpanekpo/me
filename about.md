@@ -9,7 +9,7 @@ layout: page
 <p>I build and develop software majorly for mobile. Currently i’m tightly coupled to building for android and I’ve been doing that for about 3 years now. My iOS skills are still fairly basic but capable of doing amazing things. I also write and share my knowledge on mobile development using technical articles and speaking at events.
 </p>
 
-<p>I’ve helped most companies with Android implementation, improvements and app performance and user acquisition and retention. Some of these apps include: <a href="https://hotels.ng/">Hotels.ng, </a> <a href="https://rideon.ng/">Rideon.ng, </a><a href="http://www.eluzini.com/home">Eluzini</a> and <a href="https://dryva.com.ng/">Dryva</a> as well as other apps I contribute to.</p>
+<p>I’ve helped most companies with Android implementation, improvements and app performance, user acquisition and retention. Some of these apps include: <a href="https://hotels.ng/">Hotels.ng, </a> <a href="https://rideon.ng/">Rideon.ng, </a><a href="http://www.eluzini.com/home">Eluzini</a> and <a href="https://dryva.com.ng/">Dryva</a> as well as other apps I contribute to.</p>
 
 <p>Outside building for mobile and writing, I’m the founder of ElysiLabs a bite-sized Lambda school for corps members to learn programming skills in a real-world environment. I’m also coach virtually on financial intelligence on my spare time.</p>
 
