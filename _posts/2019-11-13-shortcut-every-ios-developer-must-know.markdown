@@ -54,7 +54,7 @@ The Utility area is located on the right side of XCode and contains different in
 To quickly access documentation for any swift class. **Highlight** the required class and **Press** `^ + ⌘ + ⇧ + ?`. You will be presented with a pop up dialog showing you the class documentation. This however requires internet connection.
 
 Alternatively you can get there faster by *pressing and holding the ⌥ key and then left clicking* on any swift class. 
-Once you press the ⌥ key, your cursor will change to a **+** icon, which you can move around. When it comes across any swift class it changes to a **?** icon, you then you can now left click on this class to view the documentation.
+Once you press the ⌥ key, your cursor will change to a **+** icon, which you can move around. When it comes across any swift class it changes to a **?** icon, then you can now left click on this class to view the documentation.
 
 <div>
         <img class="image" src="{{ site.url }}/assets/images/blog/show-documentation-2.gif" alt="Alt Text">
