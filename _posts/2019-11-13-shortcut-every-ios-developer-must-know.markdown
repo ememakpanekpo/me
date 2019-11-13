@@ -44,7 +44,7 @@ You can hide/unhide the Utility area to gain more space for your content at the 
 The Utility area is located on the right side of XCode and contains different inspectors depending on which item is currently selected on the navigator panel.
 **Press** `⌥ + ⌘ + 0` to hide/unhide the utility area.
 
-**4. Quick Documentation (^ + ⌘ + ⇧ + ?) **
+**4. Quick Documentation (^ + ⌘ + ⇧ + ?)**
 
 <div>
         <img class="image" src="{{ site.url }}/assets/images/blog/quick-documentation.gif" alt="Alt Text">
