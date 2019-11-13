@@ -12,8 +12,6 @@ author: johndoe
 description: 7 awesome shortcuts every productive iOS developer must know
 ---
 
-# 7 awesome shortcuts every iOS Developer must know
-
 As a developer, knowing your IDE is one very powerful key to being productive while you work. Building for iOS with XCode can be daunting at first but here are a few shortcuts to keep you productive and make you feel like a pro.
 
 **1. Open quickly any file (Shift + ⌘ + O)**
