@@ -22,7 +22,7 @@ url: http://ememakpanekpo.github.io/me
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-152689542-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -30,7 +30,7 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
+  shortname: ememobong_akpanekpo # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
@@ -54,12 +54,12 @@ medium: emayoung95
 email: ememakpanekpo@gmail.com
 
 authors:
-    johndoe:
+    emem:
         name: Ememobong Akpanekpo
         bio: I build amazing things for mobile
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: https://twitter.com/emem_akpanekpo
+        twitter: emem_akpanekpo
 #    jamesfoster:
 #        name: James Foster
 #        bio: A Man who develops software with coffee
